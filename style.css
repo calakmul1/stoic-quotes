@@ -8,7 +8,7 @@ body {
     background-color: seashell;
     font-family: 'Playfair Display', sans-serif;
     height: 100vh;
-    overflow: hidden;
+    overflow-y: auto;
     margin: 0;
     display: flex;
     justify-content: center;
